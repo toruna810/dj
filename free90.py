@@ -1138,7 +1138,7 @@ def hcrack(uid,pwx,tl):
 
             "login":"Log In"}
 
-            header_freefb = {''authority': 'free.facebook.com',
+        
 
            "method": 'GET',
 
